@@ -7,6 +7,8 @@ https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras
 
 http://frankchen.xyz/2017/12/18/How-to-Use-Word-Embedding-Layers-for-Deep-Learning-with-Keras/.
 
+https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html.
+
 https://keras.io/zh/layers/embeddings/.
 
 https://blog.csdn.net/jiangpeng59/article/details/77533309.
